@@ -1,0 +1,7 @@
+<h1>This is a test page</h1>
+
+<table>
+{% for location in locations %}
+    <td>{{location[1]}}</td><td><img src={{location[2]}} title = {{location[1]}} alt={{location[1]}} width=512 height=288 /></td></tr>
+{% endfor %}
+</table>

@@ -1,0 +1,39 @@
+////////////////////swMonster - sci-fi, Star_Wars, battle
+////////////////////fleet - space, humans, bright, military, sci-fi
+////////////////////japan - red, flag, outline
+////////////////////kitty - dark, black, blue, cat
+////////////////////mario - video_games, mario, compilation, mushroom
+////////////////////mountain - landscape, fantasy, mountains
+////////////////////skullDude - fantasy, magic, undead
+////////////////////titanFall - mech, sci-fi, blue
+trooper - Star_Wars, sci-fi, battle
+wood - brown, pun, text
+
+1 space
+2 humans
+3 bright
+4 military
+5 sci-fi
+6 red
+7 flag
+8 outline
+9 dark
+10 black
+11 blue
+12 cat
+13 video games
+14 mario
+15 compilation
+16 mushroom
+17 landscape
+18 fantasy
+19 mountains
+20 magic
+21 undead
+22 star Wars
+23 battle
+24 brown
+25 pun
+26 text
+27 mech
+
